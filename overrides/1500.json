@@ -20,6 +20,11 @@
     "weight": 1
   },
   {
+    "speciesId": "blissey",
+    "fastMove": "POUND",
+    "weight": 1
+  },
+  {
     "speciesId": "brionne",
     "fastMove": "CHARM",
     "weight": 1
@@ -468,6 +473,16 @@
   {
     "speciesId": "spinda",
     "chargedMoves": ["ICY_WIND","DIG"],
+    "weight": 1
+  },
+  {
+    "speciesId": "staraptor",
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "staraptor_shadow",
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
     "weight": 1
   },
   {
