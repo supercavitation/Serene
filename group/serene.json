@@ -145,4 +145,9 @@
     "speciesId": "whiscash",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["MUD_BOMB","SCALD"]
+}, {
+    "speciesId": "staraptor_shadow",
+    "fastMove": "WING_ATTACK",
+    "chargedMoves": ["FLY","CLOSE_COMBAT"],
+    "shadowType": "shadow"
 }]
