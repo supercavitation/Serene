@@ -111,14 +111,9 @@
     "weight": 4
   },
   {
-    "speciesId": "feraligatr",
-    "fastMove": "WATERFALL",
-    "weight": 1
-  },
-  {
-    "speciesId": "feraligatr_shadow",
-    "fastMove": "WATERFALL",
-    "weight": 1
+    "speciesId": "furfrou",
+    "fastMove": "SAND_ATTACK",
+    "weight": 3
   },
   {
     "speciesId": "gastrodon",
