@@ -13,7 +13,7 @@
         "values": ["mega"]
     }, {
         "filterType": "id",
-        "values": ["araquanid", "lanturn","pidgeot","cresselia","medicham","poliwrath","obstagoon","wobbuffet","dubwool","vigoroth","heliolisk","toxapex","chansey","greedent","chinchou","lickitung","mantine","miltank","gardevoir","wigglytuff","primarina","rotom_wash"]
+        "values": ["araquanid", "lanturn","pidgeot","cresselia","medicham","poliwrath","obstagoon","wobbuffet","dubwool","vigoroth","heliolisk","toxapex","chansey","greedent","chinchou","lickitung","mantine","miltank","gardevoir","wigglytuff","primarina","rotom_wash","lanturnw","empoleon","feraligatr","gallade"]
     },{
         "filterType": "type",
         "values": ["grass"]
