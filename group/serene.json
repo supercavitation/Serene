@@ -127,4 +127,20 @@
     "speciesId": "whiscash",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["MUD_BOMB","SCALD"]
+}, {
+    "speciesId": "empoleon",
+    "fastMove": "STEEL_WING",
+    "chargedMoves": ["HYDRO_CANNON", "DRILL_PECK"]
+}, {
+    "speciesId": "empoleon_shadow",
+    "fastMove": "STEEL_WING",
+    "chargedMoves": ["HYDRO_CANNON", "DRILL_PECK"]
+}, {
+    "speciesId": "gallade",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
+}, {
+    "speciesId": "gallade_shadow",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
 }]
